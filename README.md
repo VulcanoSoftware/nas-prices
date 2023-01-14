@@ -4,6 +4,6 @@ barebone (coolblue): https://www.coolblue.be/nl/product/858619/synology-ds220j.h
 
 +
 
-2 wd red 4tb hdds (megekko): https://www.megekko.nl/product/0/1074796/Western-Digital-Red-Plus-WD40EFPX-4TB?r=tweakers.net&utm_source=tweakers.net&utm_medium=cpc
+wd red 8tb hdd (truebase): https://www.truebase.nl/product/181779/8tb-wd-red-plus-nas-hdd-wd80efzz?affiliateCode=Tweakers
 
-= 297,85 €
+= 401,71 €
