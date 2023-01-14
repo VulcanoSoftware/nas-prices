@@ -9,6 +9,6 @@ wd red 8tb hdd (truebase): https://www.truebase.nl/product/181779/8tb-wd-red-plu
 = 401,71 €
 
 phone:
-Realme 8 smartphone - 5G - 6.5" - Android 11 - 6 GB RAM - 128 GB - 5000 mAh - Zwart:
+Realme 8 smartphone - 5G - 6.5" - Android 11 - 6 GB RAM - 128 GB - 5000 mAh - Zwart (maxict):
 https://maxict.nl/realme-8-smartphone-5g-65-android-11-6-gb-ram-128-gb-5000-mah-zwart-p20203685.html?btwview=in&utm_campaign=&utm_medium=cpc&utm_source=tweakers
 = 197,53 €
