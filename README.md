@@ -4,9 +4,9 @@ barebone (coolblue): https://www.coolblue.be/nl/product/858619/synology-ds220j.h
 
 +
 
-wd red 8tb hdd (truebase): https://www.truebase.nl/product/181779/8tb-wd-red-plus-nas-hdd-wd80efzz?affiliateCode=Tweakers
+seagate hdd (megekko): https://www.megekko.nl/product/0/1066533/Seagate-HDD-NAS-3-5-8TB-ST8000VN004-IronWolf?r=hardware.info&utm_source=hardware.info&utm_medium=cpc
 
-= 401,71 €
+= 384,85 € (14/01/2023)
 
 phone:
 Realme 8 smartphone - 5G - 6.5" - Android 11 - 6 GB RAM - 128 GB - 5000 mAh - Zwart (maxict):
